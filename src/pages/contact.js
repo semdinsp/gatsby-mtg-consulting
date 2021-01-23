@@ -20,7 +20,7 @@ const ContactPage = ({
           <p>Let me help you kick start your next project &rarr;</p>
         </div>
         <div>
-        <form className="form-container" name="contact" data-netlify="true"  data-netlify-honeypot="bot-field" action="/success"  method="POST">
+        <form className="form-container" name="mtgcontact" data-netlify="true"  data-netlify-honeypot="bot-field" action="/success"  method="POST">
             <div>
                 <input type="hidden" name="bot-field" />
                 <input type="hidden" name="form-name" value="mtgcontact" />
