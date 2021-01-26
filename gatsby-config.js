@@ -37,7 +37,7 @@ module.exports = {
       resolve: `gatsby-plugin-gtag`,
       options: {
         // your google analytics tracking id
-        trackingId: `G-1G9C834V5N`,
+        trackingId: `G-EYL97B2VMM`,
         // Puts tracking script in the head instead of the body
         head: true,
         // enable ip anonymization
@@ -48,7 +48,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // The property ID; the tracking code won't be generated without it. replace with yours
-        trackingId: "G-1G9C834V5N",
+        trackingId: "G-EYL97B2VMM",
         head: true,
       }
     },
